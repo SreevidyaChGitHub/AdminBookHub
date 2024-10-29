@@ -90,7 +90,7 @@ function FirebaseBookstore() {
         </Toolbar>
       </AppBar>
       <AddBook addBook={addBook} />
-      <div className="ag-theme-material" style={{ height: 400, width: 1000 }}>
+      <div className="ag-theme-material" style={{ height: 400, width: 1100 }}>
         <AgGridReact rowData={books} columnDefs={colDefs}></AgGridReact>
       </div>
     </>
