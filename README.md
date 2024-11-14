@@ -6,7 +6,7 @@ This is a simple application developed to be used by the administrator of a book
 **Adding a Book**
 ![Screenshot](https://github.com/SreevidyaChGitHub/FirebaseBookStore/blob/main/images/AddBook.png)
 
-<h1>Getting Started</h1>
+<h2>Getting Started</h2>
 To get a local copy up and running, follow these steps:<br/>
 
 1. Clone this repository: git clone https://github.com/SreevidyaChGitHub/AdminBookHub.<br/>
@@ -14,7 +14,7 @@ To get a local copy up and running, follow these steps:<br/>
 3. Install dependencies: npm install.<br/>
 4. Start the development server: npm start.<br/>
 
-<h1>Contributions</h1>
+<h2>Contributions</h2>
 If you have any improvements or fixes, feel free to submit a pull request. Please follow the standard coding guidelines.
 
 1. Fork the repository.
