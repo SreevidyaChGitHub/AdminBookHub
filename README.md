@@ -1,17 +1,17 @@
 This is a simple application developed to be used by the administrator of a book store. A list of all the books from the book store are displayed to the user where he can add or delete a book. Sorting and Filtering features are also available for this book store app.
 
 **List of Books available in the Book store**
-![Screenshot](https://github.com/SreevidyaChGitHub/FirebaseBookStore/blob/main/images/ListofBooks.png)
+![Screenshot](https://github.com/SreevidyaChGitHub/AdminBookHub/blob/main/images/ListofBooks.png)
 
 **Adding a Book**
-![Screenshot](https://github.com/SreevidyaChGitHub/FirebaseBookStore/blob/main/images/AddBook.png)
+![Screenshot](https://github.com/SreevidyaChGitHub/AdminBookHub/blob/main/images/AddBook.png))
 
 <h2>Getting Started</h2>
 <b>Note:</b> Need to have Node.js installed on your system.<br/>
 <br/>
 To get a local copy up and running, follow these steps:<br/>
 1. Clone this repository: git clone https://github.com/SreevidyaChGitHub/AdminBookHub.<br/>
-2. Navigate to the project directory: cd simple-calculator.<br/>
+2. Navigate to the project directory: cd AdminBookHub.<br/>
 3. Install dependencies: npm install.<br/>
 4. Install the following third-party components - <br/>
     &nbsp&nbsp&nbspa. Install MUI component library - <b>npm install @mui/material @emotion/react @emotion/styled</b><br/>
